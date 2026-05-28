@@ -3,15 +3,15 @@
 Index de tasques del projecte:
 ---
 
-- [Tasca1](Tasca1)
-- [Tasca2](Tasca2)
-- [Tasca3](Tasca3)
+- [Tasca1-DRP: còpies de seguretat](Tasca1)
+- [Tasca2-DPR: còpies de seguretat. Cas pràctic](Tasca2)
+- [Tasca3-Pla de recuperació davant desastres](Tasca3)
 - [Tasca4](Tasca4)
-- [Tasca5](Tasca5)
-- [Tasca6](Tasca6)
-- [Tasca7](Tasca7)
-- [Tasca9](Tasca9)
-- [Tasca13](Tasca13)
+- [Tasca5-Accés Remot. Connexió via SSH](Tasca5)
+- [Tasca6-Accés remot: Escriptori remot](Tasca6)
+- [Tasca7-Serveis d’assistència remota](Tasca7)
+- [Tasca9-Servidor fitxers Linux. NFS](Tasca9)
+- [Tasca13-Disseny d’un E-commerce en Figma](Tasca13)
 
 ---
 Després de setmanes convivint amb el ritme imprevisible d’una consultora tecnològica, arriba al darrer capítol de la trilogia EverPia. És un moment que combina entusiasme, maduresa i una sensació molt real: aquesta etapa s’acaba, i comença alguna cosa nova.
